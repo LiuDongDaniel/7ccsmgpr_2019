@@ -1,3 +1,4 @@
+add other person
 1400477/1 	Ganguly, Sandipan 	sandipan.ganguly@kcl.ac.uk 	Current 	Intelligent Systems 	
 1529757/1 	MacLean, Cameron Ian 	cameron.maclean@kcl.ac.uk 	Current 	Computing And Security 	
 1542196/3 	Sarosi, Marcell 	marcell.sarosi@kcl.ac.uk 	Current 	Advanced Software Engineering With Management 	
